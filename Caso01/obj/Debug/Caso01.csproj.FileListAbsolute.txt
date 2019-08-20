@@ -1,0 +1,10 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\bin\Debug\Caso01.exe.config
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\bin\Debug\Caso01.exe
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\bin\Debug\Caso01.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\obj\Debug\Caso01.csprojAssemblyReference.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\obj\Debug\Caso01.Form1.resources
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\obj\Debug\Caso01.Properties.Resources.resources
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\obj\Debug\Caso01.csproj.GenerateResource.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\obj\Debug\Caso01.csproj.CoreCompileInputs.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\obj\Debug\Caso01.exe
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana02\Caso01\Caso01\obj\Debug\Caso01.pdb
